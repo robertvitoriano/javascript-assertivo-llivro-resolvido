@@ -1,0 +1,201 @@
+[
+  {
+    "email": "iamthe@admin.com",
+    "userName": "admin",
+    "password": "admin",
+    "name": "FooBarNameds",
+    "lastName": "Min",
+    "uid": "c5c08d3f-a773-4210-bc42-acae19935fda",
+    "avatar": "https://cdn.fakercloud.com/avatars/victordeanda_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Scot_Yost@yahoo.com",
+    "userName": "Demetris88",
+    "password": "7fifNM04Wucq1Eg",
+    "name": "Syble",
+    "lastName": "Bahringer",
+    "uid": "546c7124-f8fe-44e7-a1c5-f02383c289f2",
+    "avatar": "https://cdn.fakercloud.com/avatars/hermanobrother_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Ashlee.Koelpin28@yahoo.com",
+    "userName": "Lafayette_Walter33",
+    "password": "GZ1Q2lztrgo3UMZ",
+    "name": "Reggie",
+    "lastName": "Murray",
+    "uid": "dd1a402d-205e-43e1-9e8b-23d726d8f63b",
+    "avatar": "https://cdn.fakercloud.com/avatars/russoedu_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Mohammed_Mueller89@hotmail.com",
+    "userName": "Albert_Fahey93",
+    "password": "az7Tpqj6c9mM5KT",
+    "name": "Gerard",
+    "lastName": "Spinka",
+    "uid": "0f06d82e-1bcf-4a86-9295-d64377d672d6",
+    "avatar": "https://cdn.fakercloud.com/avatars/samihah_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Cleo.Ankunding34@gmail.com",
+    "userName": "Dedric_Willms",
+    "password": "uHT6KGDabIqqpQ2",
+    "name": "Elbert",
+    "lastName": "Batz",
+    "uid": "3829ed76-a120-4ec6-9827-b921dbb23151",
+    "avatar": "https://cdn.fakercloud.com/avatars/benoitboucart_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Fredy.Hand@yahoo.com",
+    "userName": "Lea.Morissette",
+    "password": "I50iKWZuplQbhpe",
+    "name": "Emelie",
+    "lastName": "Johnson",
+    "uid": "acde0570-f857-4f00-a182-d24c11eb2ff4",
+    "avatar": "https://cdn.fakercloud.com/avatars/overcloacked_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Waino_Bergnaum@hotmail.com",
+    "userName": "Kody.Wolf",
+    "password": "bZQzfLY0oMSkOsN",
+    "name": "Kenya",
+    "lastName": "Satterfield",
+    "uid": "a47bf24d-5b56-40cb-94e3-7afe3d1dc730",
+    "avatar": "https://cdn.fakercloud.com/avatars/faisalabid_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Wendy.Towne@gmail.com",
+    "userName": "Marilyne7",
+    "password": "getLUsjjACx08kx",
+    "name": "Sandy",
+    "lastName": "Ledner",
+    "uid": "f26b00d4-af05-4aad-9aab-1d61c59315e1",
+    "avatar": "https://cdn.fakercloud.com/avatars/ademilter_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Coby_Goldner@gmail.com",
+    "userName": "Faustino.Russel71",
+    "password": "35XMMUpq3DZjkfc",
+    "name": "Jerrell",
+    "lastName": "Franecki",
+    "uid": "e44f9fac-fe3d-4f94-8a3a-592681fc4058",
+    "avatar": "https://cdn.fakercloud.com/avatars/murrayswift_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Leann_Cormier61@gmail.com",
+    "userName": "Colten53",
+    "password": "wPDRQ1dKr1q7gjC",
+    "name": "Althea",
+    "lastName": "Bode",
+    "uid": "e61e64a0-89ff-40ce-9a76-820e372ba8e3",
+    "avatar": "https://cdn.fakercloud.com/avatars/travishines_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Laurel69@gmail.com",
+    "userName": "Lila77",
+    "password": "tdxml5i2u9c9lvu",
+    "name": "Reilly",
+    "lastName": "Wisozk",
+    "uid": "4851710f-5eb8-4368-bee7-258536d348e1",
+    "avatar": "https://cdn.fakercloud.com/avatars/donjain_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Jordy.Senger91@yahoo.com",
+    "userName": "Juanita36",
+    "password": "_9dzxyX87zzPeGG",
+    "name": "Isobel",
+    "lastName": "Gaylord",
+    "uid": "d9b5032c-297b-43d7-b72a-8c80dd2d66c1",
+    "avatar": "https://cdn.fakercloud.com/avatars/manekenthe_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Sincere61@yahoo.com",
+    "userName": "Abdullah89",
+    "password": "HZwMBMznQDHTgvi",
+    "name": "Willie",
+    "lastName": "Mosciski",
+    "uid": "f9fd6eed-31d8-492d-9388-cd046df36cb1",
+    "avatar": "https://cdn.fakercloud.com/avatars/digitalmaverick_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Lucie86@gmail.com",
+    "userName": "Carleton75",
+    "password": "eLbF6UgTrWgvixY",
+    "name": "Chesley",
+    "lastName": "Gerhold",
+    "uid": "28f06c20-1e5c-400e-a230-6ef9419affae",
+    "avatar": "https://cdn.fakercloud.com/avatars/timothycd_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "robertvitoriano@gmail.com",
+    "password": "123",
+    "userName": "robertvitoriano",
+    "name": "Robert",
+    "lastName": "Vitoriano",
+    "role": "ADMIN",
+    "uid": "5049d174-450a-4ee9-9ad0-e9505b66cab2"
+  },
+  {
+    "email": "Garnet24@gmail.com",
+    "password": "s2vM8Y9RJYXNpkz",
+    "userName": "Krystina_Thompson37",
+    "name": "Willie",
+    "lastName": "Langworth",
+    "role": "USER",
+    "uid": "1c709193-e532-4a79-a1ae-aaf28d809ae0",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marakasina/128.jpg"
+  },
+  {
+    "email": "Garnet24@gmail.com",
+    "password": "s2vM8Y9RJYXNpkz",
+    "userName": "Krystina_Thompson37",
+    "name": "Willie",
+    "lastName": "Langworth",
+    "role": "USER",
+    "uid": "debd60a2-7e0a-4cd3-8981-605f29088674",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marakasina/128.jpg"
+  },
+  {
+    "email": "Garnet24@gmail.com",
+    "password": "s2vM8Y9RJYXNpkz",
+    "userName": "Krystina_Thompson37",
+    "name": "Willie",
+    "lastName": "Langworth",
+    "role": "USER",
+    "uid": "f6509ef0-e39d-4044-8e81-777735ed2154",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marakasina/128.jpg"
+  },
+  {
+    "email": "Garnet24@gmail.com",
+    "password": "s2vM8Y9RJYXNpkz",
+    "userName": "Krystina_Thompson37",
+    "name": "Willie",
+    "lastName": "Langworth",
+    "role": "USER",
+    "uid": "3086d15a-301c-4dfc-b723-a51fcc6abaec",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marakasina/128.jpg"
+  },
+  {
+    "email": "Garnet24@gmail.com",
+    "password": "s2vM8Y9RJYXNpkz",
+    "userName": "Krystina_Thompson37",
+    "name": "Willie",
+    "lastName": "Langworth",
+    "role": "USER",
+    "uid": "6fe5efdd-7df4-436e-bfc6-780b181f58f1",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marakasina/128.jpg"
+  }
+]

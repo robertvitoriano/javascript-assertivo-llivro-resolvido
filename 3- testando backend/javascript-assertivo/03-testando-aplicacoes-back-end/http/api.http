@@ -1,0 +1,77 @@
+# Variáveis
+@URL = http://localhost:8080/api
+
+# AUTH ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Faz o Login e retorna um UID pra ser usado nas chamadas autenticadas
+POST {{URL}}/auth/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "admin"
+}
+
+# USER ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Retorna os dados de um usuário baseado em seu email
+
+GET {{URL}}/user?email=Oleta22@gmail.com
+Content-Type: application/json
+
+# Retorna os dados de um usuário baseado em seu email
+GET {{URL}}/user?uid=Oleta22@gmail.com
+Cookie: uid=c5c08d3f-a773-4210-bc42-acae19935fda
+
+Content-Type: application/json
+
+# Retorna os dados de um usuário baseado em seu email
+GET {{URL}}/user?uid=c5c08d3f-a773-4210-bc42-acae19935fda
+Cookie: uid=c5c08d3f-a773-4210-bc42-acae19935fda
+
+Content-Type: application/json
+
+# Retorna os dados de um usuário baseado em seu email
+GET {{URL}}/user?username=admin
+Cookie: uid=c5c08d3f-a773-4210-bc42-acae19935fda
+
+Content-Type: application/json
+
+# [ADMIN] Cria um usuário
+POST {{URL}}/user
+Content-Type: application/json
+Cookie: uid=c5c08d3f-a773-4210-bc42-acae19935fda
+
+{
+  "email": "Garnet24@gmail.com",
+  "userName": "Krystina_Thompson37",
+  "password": "s2vM8Y9RJYXNpkz",
+  "name": "Willie",
+  "lastName": "Langworth",
+  "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marakasina/128.jpg",
+  "role": "USER"
+}
+
+
+# [ADMIN] Atualiza um usuário
+PATCH {{URL}}/user
+Content-Type: application/json
+Cookie: uid=c5c08d3f-a773-4210-bc42-acae19935fda
+
+{
+  "uid": "c5c08d3f-a773-4210-bc42-acae19935fda",
+  "name": "FooBarNameds"
+}
+
+# [ADMIN] Deleta um usuário
+DELETE  {{URL}}/user
+Content-Type: application/json
+Cookie: uuid=c5c08d3f-a773-4210-bc42-acae19935fda
+
+{
+  "uid": "26289003-de53-4805-9d99-00dd23964e8f"
+}
+
+# USERS :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Retorna a lista de todos os usuários
+GET {{URL}}/users
+Content-Type: application/json
+Cookie: uuid=c5c08d3f-a773-4210-bc42-acae19935fda

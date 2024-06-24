@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Avatar/> Should be able to render avatar component with minimalistic styles once minimal is true with a image 1`] = `
+<figure
+  class="sc-hKgILt fSRGMS"
+>
+  <img
+    alt="avatar"
+    src="http://someimage.com"
+  />
+</figure>
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input/> should render a select with an array of options passed as props 1`] = `
+<select
+  class="sc-fubCfw iTMVmy"
+  data-testid="select-test"
+>
+  <option
+    value="first-value"
+  >
+    first-option
+  </option>
+  <option
+    value="second-value"
+  >
+    second-option
+  </option>
+  <option
+    value="third-value"
+  >
+    third-option
+  </option>
+</select>
+`;
